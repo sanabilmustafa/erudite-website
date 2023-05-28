@@ -403,6 +403,7 @@ a.image{
 }
 .bg-light-gray3 {
     background-color: #f2f2f2;
+    color: #000000;
 }
 .bg-blue {
     background-color: #0284d0;
@@ -431,6 +432,10 @@ a.image{
 /* background color hover */
 .hvr-bg-light-gray:hover {
     background-color: #f6f6f6;
+}
+.bg-gray-my{
+    background-color: gray;
+    color: black;
 }
 .hvr-bg-blue:hover {
     background-color: #0284d0;
@@ -1691,7 +1696,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
 }
 
 .bg-change .split-container-setting .main-title h5, .bg-change .split-container-setting .main-title h2, .bg-change .split-container-setting h6 {
-    color: #ffffff;
+    color: #000000;
 }
 .bg-change.bg-blue .progress {
     background: #329ad7;
